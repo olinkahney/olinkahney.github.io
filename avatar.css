@@ -22,9 +22,10 @@ SVG Presentation Attributes:
  
 .avatar {
     /* this sets default styles for everything in the avatar group */
-    stroke-width: 5;
+    stroke-width: 1;
     fill: white;
-    stroke: black;
+    stroke: black
+        ;
 }
  
 .body {
@@ -42,22 +43,24 @@ SVG Presentation Attributes:
     fill: #FFFFFF;
 }
  
-.eye {
+.eye {fill:green;
+    
 }
  
 .arm {
 }
  
-.shoe {
+.shoe {fill:blue;
+    
+    fill:blue;
 }
  
 .left {
+ 
 }
  
-.right {
-}
- 
-#head {
+#head {fill:pink;
+    
  
 }
  
@@ -67,25 +70,27 @@ SVG Presentation Attributes:
 #left-eye {
 }
  
-#neck {
+#neck {fill:pink;
+    
 }
  
-#shirt {
+#shirt {fill:black;
 }
  
-#cape {
+#cape {fill:red;
 }
  
-#mouth {
+#mouth {fill:teal
+    
 }
  
-#pants {
+#pants {fill:orange;
 }
  
-#left-arm {
+#left-arm {fill:pink;
 }
  
-#right-arm {
+#right-arm {fill:pink;
 }
  
 #left-shoe {
